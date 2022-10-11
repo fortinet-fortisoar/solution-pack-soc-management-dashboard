@@ -1,0 +1,40 @@
+{
+    "@context": "\/api\/3\/contexts\/Dashboard",
+    "@type": "Dashboard",
+    "uuid": "57ffafc7-bd34-4b0f-b126-2c91fc2b0860",
+    "displayName": "SOC Management Dashboard",
+    "type": "rows",
+    "templateType": "dashboard",
+    "roles": [],
+    "parentTemplateId": null,
+    "config": {
+        "rows": [
+            {
+                "columns": [
+                    {
+                        "widgets": [
+                            {
+                                "type": "socManagement-1.0.0",
+                                "config": {
+                                    "wid": "47ac7d28-9c67-4c57-837d-53fd78c0a896",
+                                    "title": "SOC Visualization",
+                                    "timeRange": "createDate",
+                                    "days": 7
+                                }
+                            }
+                        ],
+                        "style": "col-lg-12"
+                    }
+                ],
+                "wid": "90f0cef8-a67b-4f27-89b8-8cba58c236b1",
+                "_collapsed": false
+            }
+        ],
+        "wid": "569e057c-f912-4d4b-bfc2-78775eb37e93",
+        "metadata": {
+            "customTemplateTitle": "Dashboard"
+        }
+    },
+    "filterArray": [],
+    "updateDate": null
+}

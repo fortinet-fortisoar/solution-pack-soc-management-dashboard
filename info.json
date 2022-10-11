@@ -1,0 +1,39 @@
+{
+    "name": "sOCOverview",
+    "version": "1.0.0",
+    "fsrMinCompatibility": "7.2.0",
+    "type": "solutionpack",
+    "local": true,
+    "label": "SOC Overview",
+    "dependencies": [
+        {
+            "name": "sOARFramework",
+            "type": "solutionpack",
+            "label": "SOAR Framework",
+            "minVersion": null
+        }
+    ],
+    "prerequisite": null,
+    "publisher": "Fortinet",
+    "description": "This Solution Pack installs SOC Management Widget and deplopys a Dashboard that includes SOC Management Widget",
+    "help": null,
+    "category": [
+        "Utilities"
+    ],
+    "supportInfo": null,
+    "iconLarge": null,
+    "date": "2022-10-11T09:03:07+00:00",
+    "contents": {
+        "dashboards": [
+            {
+                "name": "SOC Management Dashboard"
+            }
+        ],
+        "widgets": [
+            {
+                "apiName": "socManagement",
+                "name": "SOC Management"
+            }
+        ]
+    }
+}
