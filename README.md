@@ -15,5 +15,5 @@
 
 Use absolute links
 
-| [Installation](https://github.com/fortinet-fortisoar/solution-pack-soc-overview/blob/release/1.0.0/docs/setup.md#installation) | [Configuration](https://github.com/fortinet-fortisoar/solution-pack-soc-overview/blob/release/1.0.0/docs/setup.md#configuration) | [Usage](https://github.com/fortinet-fortisoar/solution-pack-soc-overview/blob/release/1.0.0/docs/usage.md) | [Contents](https://github.com/fortinet-fortisoar/solution-pack-soc-overview/blob/release/1.0.0/docs/contents.md) |
+| [Installation](./docs/setup.md#installation) | [Configuration](./docs/setup.md#configuration) | [Usage](./docs/usage.md) | [Contents](./docs/contents.md) |
 |--------------------------------------------|----------------------------------------------|------------------------|------------------------------|
