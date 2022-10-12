@@ -1,0 +1,7 @@
+[
+    {
+        "name": "socManagement",
+        "title": "SOC Management",
+        "install_mode": "rpm"
+    }
+]
