@@ -1,7 +1,7 @@
 {
     "name": "sOCOverview",
     "version": "1.0.0",
-    "fsrMinCompatibility": "7.2.0",
+    "fsrMinCompatibility": "7.2.2",
     "type": "solutionpack",
     "local": true,
     "label": "SOC Overview",
