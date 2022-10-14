@@ -3,7 +3,7 @@
 
 # Usage
 
-- Navigate to the newly created dashboard **SOC Overview**. 
+- Navigate to the newly created dashboard **SOC Management Dashboard**. 
 - The Dashboard provides an overall view of an investigation scenario in a SOC. 
 
 

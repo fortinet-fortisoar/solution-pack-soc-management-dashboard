@@ -1,10 +1,10 @@
 {
-    "name": "sOCOverview",
+    "name": "sOCOverviewMetrics",
     "version": "1.0.0",
     "fsrMinCompatibility": "7.2.2",
     "type": "solutionpack",
     "local": true,
-    "label": "SOC Overview",
+    "label": "SOC Overview Metrics",
     "dependencies": [
         {
             "name": "sOARFramework",
@@ -15,14 +15,14 @@
     ],
     "prerequisite": null,
     "publisher": "Fortinet",
-    "description": "This Solution Pack installs SOC Management Widget and deplopys a Dashboard that includes SOC Management Widget",
-    "help": null,
+    "description": "Provides SOC Overview metrics in the form of configurable dashboards that reflect the SOC overall health, investigation pipelines, MTTR/MTTD and ROI.",
+    "help": "https://github.com/fortinet-fortisoar/solution-pack-soc-overview-metrics/blob/release/1.0.0/README.md",
     "category": [
-        "Utilities"
+        "Security Posture Management"
     ],
     "supportInfo": null,
     "iconLarge": null,
-    "date": "2022-10-11T09:03:07+00:00",
+    "date": "2022-10-14T08:57:14+00:00",
     "contents": {
         "dashboards": [
             {
