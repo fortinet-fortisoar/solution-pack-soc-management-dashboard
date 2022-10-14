@@ -13,7 +13,5 @@
 
 # Next Steps
 
-Use absolute links
-
 | [Installation](./docs/setup.md#installation) | [Configuration](./docs/setup.md#configuration) | [Usage](./docs/usage.md) | [Contents](./docs/contents.md) |
 |--------------------------------------------|----------------------------------------------|------------------------|------------------------------|
