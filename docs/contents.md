@@ -13,5 +13,5 @@
 
 |**Dashboard Name**|**Description**|
 | :---------------------- | :- |
-|SOC Overview | The Dashobard has the SOC management widget with default values set as: Sort by Created on in last 7 Days |
+|SOC Management Dashboard | The Dashobard has the SOC management widget with default values set as: Sort by Created on in last 7 Days |
 
