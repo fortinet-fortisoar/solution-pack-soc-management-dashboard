@@ -17,5 +17,5 @@
 # Configuration
 
 SOC Overview Metrics Solution Pack uses the SOC Management Widget.
-- The Widget comes pre-configured with the Solution Pack, you can change the configurations of the widget, refer [SOC Management Widget](https://github.com/fortinet-fortisoar/widget-soc-management/tree/release/1.0.0)
+- The Widget comes pre-configured with the Solution Pack, you can change the configurations of the widget, refer [SOC Management Widget](https://github.com/fortinet-fortisoar/widget-soc-management/tree/release/1.0.1)
 

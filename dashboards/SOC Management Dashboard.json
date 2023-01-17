@@ -18,7 +18,7 @@
                     {
                         "widgets": [
                             {
-                                "type": "socManagement-1.0.0",
+                                "type": "socManagement-2.0.1",
                                 "config": {
                                     "wid": "47ac7d28-9c67-4c57-837d-53fd78c0a896",
                                     "title": "SOC Visualization",
