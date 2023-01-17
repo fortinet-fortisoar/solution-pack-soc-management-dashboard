@@ -1,0 +1,9 @@
+[
+    {
+        "name": "socManagement",
+        "version": "1.0.0",
+        "title": "SOC Management",
+        "install_mode": "rpm",
+        "installer_path": "socManagement-1.0.0"
+    }
+]
