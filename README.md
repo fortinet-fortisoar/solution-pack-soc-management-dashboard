@@ -1,9 +1,10 @@
 # Release Information
 
-* **Version**: 1.0.0
+* **Version**: 1.0.1
 * **Certified**: No
 * **Publisher**: Fortinet
 * **Compatible Version**: FortiSOAR v7.2.2
+- [Release Notes](./widget/release_notes.md)
 
 # Overview
 
