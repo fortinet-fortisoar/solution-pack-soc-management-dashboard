@@ -1,5 +1,5 @@
 | [Home](../README.md) |
-|--------------------------------------------|
+|----------------------|
 
 # Installation
 
@@ -10,12 +10,14 @@
 
 ## Prerequisites
 
-| **Solution Pack Name** | **Purpose**                           |
-| :--------------------- | :-------------------------------------|
-|  SOAR Framework        | Required for incident response modules|
+| Solution Pack Name | Purpose                                |
+|:-------------------|:---------------------------------------|
+| SOAR Framework     | Required for incident response modules |
 
 # Configuration
 
 SOC Overview Metrics Solution Pack uses the SOC Management Widget.
 - The Widget comes pre-configured with the Solution Pack, you can change the configurations of the widget, refer [SOC Management Widget](https://github.com/fortinet-fortisoar/widget-soc-management/blob/develop/README.md)
 
+| [Usage](./usage.md) | [Contents](./contents.md) |
+|---------------------|---------------------------|

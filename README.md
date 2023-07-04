@@ -8,11 +8,39 @@
 
 # Overview
 
-- The SOC Overview Metrics Solution Pack installs the SOC Management Widget if not already installed and creates a dashboard with widget. 
-- In a single image it displays the overall picture of the investigations carried out by a SOC analyst, such as, how many alerts were created, the type of alerts, how many alerts of the total were closed, categorized as False Positive, True Positive, etc, in the time frame you have specified. 
-- It also displays information about the top three playbooks, data sources, alert types, the ROI, playbooks run, etc., and also some information about the incidents including the top three incident types, their associated assets, and analyzed artifacts.
+The **SOC Overview Metrics** solution pack creates a dashboard using information from the SOC Management Widget. The available customizations and filters ensure focus on relevant information by removing the noise.
+
+At a glance you can view the overall picture of the investigations carried out by a SOC analyst in a specified time frame.
+
+Following is an example of the Dashboard with Demo records
+
+![SOC Management Dashboard](./docs/res/soc_mngt_dashboard.png)
+
+Information such as the following can be viewed:
+
+- Alert related information such as:
+
+    - Count of alerts created
+    - Type of alerts created
+    - Count of alerts closed
+    - Count of alerts categorized as *False Positive*
+    - Count of alerts categorized as *True Positive*
+
+- Incident related information such as:
+
+    - Top three incident types
+    - Their associated assets
+    - Analyzed artifacts.
+
+- Other important information such as:
+
+    - Top three playbooks
+    - Data sources
+    - Alert types
+    - ROI (Return on Investment)
+    - Playbooks executed, and also some information about the incidents including the 
 
 # Next Steps
 
 | [Installation](./docs/setup.md#installation) | [Configuration](./docs/setup.md#configuration) | [Usage](./docs/usage.md) | [Contents](./docs/contents.md) |
-|--------------------------------------------|----------------------------------------------|------------------------|------------------------------|
+|----------------------------------------------|------------------------------------------------|--------------------------|--------------------------------|
